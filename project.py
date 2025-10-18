@@ -7,4 +7,4 @@ student = {
     "age"  : 18,
 }
 
-print(student.get["name"])
+print(student.get("name"))
